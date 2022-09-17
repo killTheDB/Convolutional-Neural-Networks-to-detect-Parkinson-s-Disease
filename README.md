@@ -1,1 +1,1 @@
-# Convolutional-Neural-Networks-to-detect-Parkinson-s-Disease
+# Convolutional-Neural-Networks-to-detect-Parkinsons-Disease
